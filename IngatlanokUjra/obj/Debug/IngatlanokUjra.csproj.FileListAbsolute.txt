@@ -1,0 +1,14 @@
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\bin\Debug\IngatlanokUjra.exe.config
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\bin\Debug\IngatlanokUjra.exe
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\bin\Debug\IngatlanokUjra.pdb
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.csproj.AssemblyReference.cache
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.Form1.resources
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.Properties.Resources.resources
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.csproj.GenerateResource.cache
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.csproj.CoreCompileInputs.cache
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.exe
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.pdb
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.UjIngatlanForm.resources
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.ErdeklodesForm.resources
+C:\Users\Baksa\source\repos\IngatlanokUjra\IngatlanokUjra\obj\Debug\IngatlanokUjra.EladasokForm.resources

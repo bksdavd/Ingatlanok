@@ -1,0 +1,5 @@
+1;Érd;40;40;0;True
+2;Eger;55;100;100;1;0;False
+3;Pest;100;100;0;False
+4;Zsámbék;100;100;100;2;0;False
+5;Pest;16;10;0;False
